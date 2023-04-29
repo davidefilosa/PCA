@@ -1,4 +1,6 @@
 # Principal Component Analysis (PCA)
+## [Detailed Project](https://nbviewer.org/github/davidefilosa/PCA/blob/master/PrincipalComponentAnalysis.ipynb)
+
 
 
 When we need to analyze a large dataset with an high number of of dimensions/features we can use Principal Component Analysis (PCA) to transform this high dimensional data into lower dimensional data.
